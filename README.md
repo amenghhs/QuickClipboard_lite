@@ -1,5 +1,9 @@
 # QuickClipboard 快速剪贴板
 
+根据个人习惯调整部分功能（暂未开始）
+- []支持win11原生剪贴板的Home/End跳转，全部清除按键，对单项记录进行快速删除/仅粘贴文本
+- []去除底部悬浮菜单，可选择是否记录文件复制/剪切记录...
+
 <div align="center">
   <img src="readme-assets/logo.png" alt="QuickClipboard Logo" width="120">
   
